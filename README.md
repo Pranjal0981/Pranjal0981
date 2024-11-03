@@ -22,7 +22,7 @@ Welcome to my corner of GitHub! I'm passionate about technology, creativity, and
 I'm always eager to collaborate on exciting projects or brainstorm new ideas. If you're looking for a tech partner, feel free to reach out!
 
 ## 📫 How to Reach Me
-- **[LinkedIn]('https://www.linkedin.com/in/pranjal-shukla-897967221/')**  
+- **[LinkedIn]** 'https://www.linkedin.com/in/pranjal-shukla-897967221/'  
 - **Email:** pranjalshukla245@gmail.com
 
 ## 😄 Pronouns
